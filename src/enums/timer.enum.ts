@@ -1,0 +1,7 @@
+export enum TIME_UNIT {
+  DECISECOND = 'DECISECOND',
+  SECONDS = 'SECONDS',
+  MINUTES = 'MINUTES',
+  HOURS = 'HOURS',
+  DAYS = 'DAYS',
+}
